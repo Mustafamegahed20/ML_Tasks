@@ -1,4 +1,3 @@
-﻿# ML_Tasks
 # Machine Learning Tasks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mohamed-Ibrahim-01/ml-tasks/master) 
 
 A repository for machine learning course in sbme department
