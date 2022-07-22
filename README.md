@@ -1,6 +1,6 @@
 # Machine Learning Tasks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mohamed-Ibrahim-01/ml-tasks/master) 
 
-A repository for machine learning course in sbme department
+A repository for machine learning course in SBME department
 
 ## Task 1: Introduction to machine learning and sklearn
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mohamed-Ibrahim-01/ml-tasks/master?labpath=A1_ML_intro.ipynb) 
